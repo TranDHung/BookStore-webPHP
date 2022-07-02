@@ -1,0 +1,160 @@
+
+        .product_view_add_box button:first-of-type {
+                color: #F39801;
+                background: rgb(255,255,255);           
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
+                border: 2px solid #F39801;
+            }
+        .product_view_add_box .shopping-cart-icon {
+                background: url(https://cdn0.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ico_shoppingbag.png) no-repeat center center;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+                height: 24px;
+                width: 22px;
+                display: inline-block;
+         }
+        .product_view_add_box button {
+                cursor: pointer;
+                user-select: none;
+                height: 44px;
+                margin-left: 10px;
+                width: 220px;
+                font-weight: 700;
+                font-size: 1.1em;
+                transition: all 0.3s;
+                box-shadow: 0px 4px 6px hsl(0deg 0% 90%);
+                -moz-box-shadow: 0px 4px 6px hsl(0, 0%, 90%);
+                -webkit-box-shadow: 0px 4px 6px hsl(0deg 0% 90%);
+                border-radius: 22px;
+                -moz-border-radius: 22px;
+                -webkit-border-radius: 22px;
+                display: flex;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: -webkit-flex;
+                flex-direction: row;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-align-items: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                color: #fff;
+                background: rgb(255,152,0);
+                background: -moz-linear-gradient(90deg, rgba(255,152,0,1) 0%, rgba(247,105,93,1) 100%);
+                background: -webkit-linear-gradient(
+            90deg
+            , rgba(255,152,0,1) 0%, rgba(247,105,93,1) 100%);
+                background: linear-gradient(
+            90deg
+            , rgba(255,152,0,1) 0%, rgba(247,105,93,1) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff9800",endColorstr="#f7695d",GradientType=1);
+                border: none;
+            }
+            .product_view_add_box {
+                margin-top: 12px;
+                display: flex;
+                margin-left: 72px;
+            }
+            .product-view-image > .product-view-image-product > img {
+            max-height: 362px;
+            max-width: 100%;
+            height: auto;
+            margin-left: 120px;
+            }
+            .clear {
+                clear: both;
+            }
+            .product-view {overflow: auto;}
+            #post {
+                float:left;
+            }
+            #slide {
+                float: right;
+            }
+            .kaisoo h1 {
+                font-size: 1.5em;
+                line-height: 1.25em;
+            }
+            .product-view-sa-supplier span:first-child {
+                padding-right: 5px;
+            }
+            .product-view-sa-supplier span:nth-of-type(2) {
+                font-weight: 600;
+            }
+            .product-view-sa-author span:first-child {
+                padding-right: 5px;
+            }
+            .product-view-sa-author span:nth-of-type(2) {
+                font-weight: 600;
+            }
+            .product-view-sa-NXB span:nth-of-type(2) {
+                font-weight: 600;
+            }
+            .product-view-sa-bia span:nth-of-type(2) {
+                font-weight: 600;
+            }
+            .product-view-sa-supplier {
+                display: inline-block;
+            }
+            .product-view-sa-author {
+                display: inline-block;
+                margin-left: 180px;
+            }
+            .product-view-sa-NXB {
+                padding-top: 18px;
+                display: inline-block;
+            }
+            .product-view-sa-bia {
+                display: inline-block;
+                margin-left: 127px;
+            }
+            .product-view {
+                background-color: white;
+                margin: 30px;
+                padding: 30px
+            }
+            body {
+                background-color: lightgray;
+            }
+            .checked {
+                padding-top: 18px;
+                color: orange;
+            }
+            .price-block {padding-top: 18px;}
+            .price-block .price {
+                font-size: 40px;
+                line-height: 32px;
+                color: #F39801;
+                font-family: 'Roboto',sans-serif !important;
+                font-weight: 700;
+            }
+            .expected-deliver div {display: inline-block;padding-top: 10px;}
+            #expected-deliver-address > div:nth-of-type(2) > span:nth-of-type(2) {color:rgb(20, 117, 228);text-decoration: underline;font-weight: 600;}
+            #expected-deliver-address > div:nth-of-type(2) {margin-left: 75px;}
+            #expected-return-product-policy > div:nth-of-type(2) > span:nth-of-type(2) {color:rgb(20, 117, 228);text-decoration: underline;font-weight: 600;}
+            #expected-return-product-policy > div:nth-of-type(2) {margin-left: 88px;}
+            .product-view-quantile-box label {
+                font-size: 1.2em;
+                font-weight: 650;
+                color:rgb(14, 14, 22)
+            }
+            #catalog-product-detail-number {padding-top: 30px;}
+            #catalog-product-detail-number > #product-view-quantity-box-block {
+                width: 115px;
+                height: 35px;
+                background:white;
+                float: right;
+                border: 1px solid rgb(179, 171, 171);
+                margin-right: 480px;
+            } 
+            #product-view-quantity-box-block > img:nth-of-type(1) {
+                padding-top: 40px
+            }
+            #product-view-quantity-box-block > img:nth-of-type(2) {
+                padding-bottom: 80px
+            }
